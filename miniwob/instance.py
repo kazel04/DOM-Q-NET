@@ -30,7 +30,7 @@ class MiniWoBInstance:
 
     def __init__(
             self, task_file,
-            base_url=os.getenv(file:///downloads/DOM-Q-NET/html/miniwob),
+            base_url='file:///Users/kohkoh/Downloads/DOM-Q-NET-master-2/miniwob/html/miniwob',
             wait_ms=0., block_on_reset=True, refresh_freq=0
             ):
         """
