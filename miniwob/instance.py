@@ -15,7 +15,7 @@ from selenium.webdriver.chrome.options import Options
 
 import PIL
 
-import ipdb
+
 
 
 class MiniWoBInstance:
