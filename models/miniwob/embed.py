@@ -23,7 +23,7 @@ class DomLeavesEmbedding(nn.Module):
             E_classes,
             E_q,
             max_num_doms,
-            batch_device,
+            torch.device('cuda' if torch.cuda.is_available() else 'cpu'),
             embed_text=False,
             embed_pos=False,
             embed_color=False):
