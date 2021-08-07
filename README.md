@@ -3,6 +3,8 @@
 > [[arxiv]](https://arxiv.org/abs/1902.07257) [[openreview]](https://openreview.net/forum?id=HJgd1nAqFX) <br />
 >![Architecture](architecture.png)
 
+Can consider adding in changes such as MuZero improvements..
+
 # Demo
 Trained multitask agent: https://www.youtube.com/watch?v=eGzTDIvX4IY <br/>
 Facebook login: https://www.youtube.com/watch?v=IQytRUKmWhs&t=2s
