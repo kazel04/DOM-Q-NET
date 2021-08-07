@@ -12,7 +12,7 @@ Facebook login: https://www.youtube.com/watch?v=IQytRUKmWhs&t=2s
 # Requirement
 Need to download selenium & install chrome driver for selenium..
 
-# Installation
+# Installation(FOLLOW INSTRUCTIONS GIVEN IN NOTES AND INSTALL THE RIGHT DRIVERS(SELENIUM)
 1. Clone this repo
 2. Download MiniWoB++ environment from the original repo https://github.com/stanfordnlp/miniwob-plusplus  <br />
 and copy miniwob-plusplus/html folder to miniwob/html in this repo <br />
